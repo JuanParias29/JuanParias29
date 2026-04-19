@@ -17,7 +17,6 @@ I am interested in applying data science in sectors where analysis has a meaning
 - 📈 Time Series Forecasting (ARIMA, SARIMA, SARIMAX)
 - 📊 Applied Statistical Analysis for decision-making
 - 🤖 Machine Learning for predictive modeling
-- 🧩 Practical data solutions for real-world scenarios
 
 ---
 
