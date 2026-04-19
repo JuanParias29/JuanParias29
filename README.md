@@ -41,14 +41,6 @@ I am interested in applying data science in sectors where analysis has a meaning
 
 ---
 
-## 📌 Featured Work
-- 📊 **Time Series Forecasting Models** – Demand prediction using ARIMA/SARIMA  
-- 🤖 **Predictive Modeling Projects** – Classification and regression applied to real datasets  
-- 🧠 **NLP Applications** – Basic text processing and applied use of language models  
-- 📦 **Data Processing Pipelines** – Structured workflows for analysis and modeling  
-
----
-
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=JuanParias29&theme=transparent&hide_border=true&title_color=0EA5E9&text_color=E2E8F0&icon_color=14B8A6)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JuanParias29&theme=transparent&hide_border=true&ring=0EA5E9&fire=14B8A6)
