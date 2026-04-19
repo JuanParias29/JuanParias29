@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:0EA5E9,100:1D4ED8&height=220&section=header&text=Juan%20P.%20Arias&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Time%20Series%20%7C%20Machine%20Learning&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,25:22C55E,50:0EA5E9,75:2563EB,100:1D4ED8&height=220&section=header&text=Juan%20Pablo%20Arias&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20|%20Time%20Series%20Forecasting%20|%20Machine%20Learning%20|%20Data-Driven%20Decision%20Making&descAlignY=58&descSize=18" />
 </p>
 
 # 💫 About Me
