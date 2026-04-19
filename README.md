@@ -3,15 +3,13 @@
 </p>
 
 # 💫 About Me
-Data Scientist focused on turning data into practical and actionable decisions.
+Data scientist focused on time series analysis and applied forecasting to transform data into decision-making. I work on demand prediction problems for inventory management, using models such as ARIMA, SARIMA, and VAR.
 
-My work centers on **time series forecasting**, **statistical analysis applied to real-world problems**, and **machine learning models** that prioritize usefulness over complexity. I focus on understanding patterns, trends, and behavior in data to support decision-making.
+My approach is based on understanding the problem, objectives, and data culture before building any model. I prioritize solutions with methodological rigor and statistical soundness, rather than simply achieving good performance metrics. I do not align with “trial-and-error” modeling without clear reasoning; I believe in structured processes, well-grounded analysis, and alignment with business context.
 
-I work primarily with **Python, R, and SQL**, building solutions that connect data analysis with business or operational needs.
+I primarily work with R and Python, applying analysis and modeling in real-world scenarios. I am currently developing a demand forecasting project focused on optimizing safety stock.
 
-I apply statistical reasoning in a practical way, emphasizing interpretation and impact rather than theoretical complexity.
-
-> **"Transforming data into informed decisions."**
+I am interested in applying data science in sectors where analysis has a meaningful impact, particularly in the healthcare sector, where accurate interpretation of data can significantly improve decision-making.
 
 ---
 
