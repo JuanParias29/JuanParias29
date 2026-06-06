@@ -69,16 +69,9 @@ Data Scientist specializing in time series analysis and forecasting, transformin
 ---
 
 # 📊 GitHub Analytics
-
-<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=JuanParias29&theme=transparent&hide_border=true&title_color=0EA5E9&text_color=E2E8F0&icon_color=14B8A6"  
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=JuanParias29&theme=transparent&hide_border=true&ring=0EA5E9&fire=14B8A6&currStreakLabel=0EA5E9" 
+    width="48%" 
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=JuanParias29&theme=transparent&hide_border=true&ring=38BDF8&fire=60A5FA&currStreakLabel=E2E8F0&sideLabels=E2E8F0&dates=94A3B8" 
     alt="GitHub Streak" 
   />
 </p>
@@ -89,21 +82,26 @@ Data Scientist specializing in time series analysis and forecasting, transformin
 
 <p align="center">
   <img 
+    width="95%" 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanParias29&theme=github_dark" 
-    alt="GitHub Weekly Contribution Summary" 
+    alt="GitHub Contribution Summary" 
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JuanParias29&theme=github_dark&utcOffset=-5" 
-    alt="GitHub Productive Time" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/JuanParias29/JuanParias29/output/github-contribution-grid-snake-blue.svg" 
-    alt="GitHub Contribution Snake Blue" 
-  />
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/JuanParias29/JuanParias29/output/github-contribution-grid-snake-blue.svg" 
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/JuanParias29/JuanParias29/output/github-contribution-grid-snake-blue.svg" 
+    />
+    <img 
+      width="95%" 
+      src="https://raw.githubusercontent.com/JuanParias29/JuanParias29/output/github-contribution-grid-snake-blue.svg" 
+      alt="GitHub Contribution Snake Blue" 
+    />
+  </picture>
 </p>
