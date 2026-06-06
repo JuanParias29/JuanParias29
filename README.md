@@ -1,96 +1,84 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,25:22C55E,50:0EA5E9,75:2563EB,100:1D4ED8&height=220&section=header&text=Juan%20Pablo%20Arias&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20|%20Time%20Series%20Forecasting%20|%20Machine%20Learning&descAlignY=58&descSize=18" />
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQFtBIKmWnAxCA/profile-displaybackgroundimage-shrink_350_1400/B4EZ6dsUQ.JAAU-/0/1780762101173?e=1782345600&v=beta&t=gEPoXFBwXiobpqMZmH2JfMHiushw8Xx8wcMUkDYM4qs" alt="Juan Pablo Arias Banner" width="100%" />
 </p>
 
-<h3 align="center">
-Transforming data into reliable decisions through statistical modeling and forecasting.
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=750&lines=Data+Scientist;Time+Series+Forecasting;Machine+Learning;Artificial+Intelligence;Natural+Language+Processing" />
+</p>
 
 ---
 
 # 💫 About Me
 
-Data Scientist specialized in **Time Series Forecasting**, **Statistical Modeling**, and **Machine Learning**.
-
-My work focuses on demand forecasting and inventory optimization, applying methodologies such as **ARIMA**, **SARIMA**, **SARIMAX**, and multivariate forecasting models. I believe that successful analytics projects begin with understanding the business problem, objectives, and data-generating process before selecting algorithms.
-
-Currently, I am developing forecasting solutions aimed at improving inventory planning and safety stock optimization.
-
----
-
-# 🚀 Current Focus
-
-* 📈 Demand Forecasting & Time Series Analysis
-* 📦 Inventory Optimization & Safety Stock
-* 📊 Statistical Modeling for Decision-Making
-* 🤖 Machine Learning Applications
-* 🏥 Data Science for Healthcare & Social Impact
+Data Scientist specializing in time series analysis and forecasting, transforming complex data into actionable insights for strategic decision-making. Experienced in Machine Learning, NLP, and AI applications, with a strong focus on predictive modeling and intelligent data-driven solutions.
 
 ---
 
 # 💼 Experience & Leadership
 
-* **Vice Chair — IEEE Computational Intelligence Society (CIS)**
-
-  * AI education, research outreach, and technical community building.
-
-* **Member — IEEE Computer Society (CS)**
-
-  * Software engineering, Linux, LaTeX, and web technologies.
-
-* **President — JarvisLab NLP Research Group**
-
-  * NLP research, knowledge sharing, and AI-driven projects.
-
-* **Teaching Assistant**
-
-  * Software Engineering and Natural Language Processing.
+| Role | Organization |
+|--------|-------------|
+| President | JarvisLab NLP Research Group |
+| Vice President | IEEE Computational Intelligence Society (CIS) |
+| Member | IEEE Computer Society (CS) |
+| Administrative Assistant | Software Engineering Section |
+| Teaching Assistant | Natural Language Processing |
+| Teaching Assistant | Software Engineering |
 
 ---
 
-# 💻 Tech Stack
+# 🛠️ Tech Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
+<p align="left">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+
+</p>
 
 ### Data Science & Machine Learning
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+<p align="left">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge" />
+
+</p>
 
 ### Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+<p align="left">
+
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+</p>
 
 ### Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+<p align="left">
 
----
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JuanParias29&theme=transparent&hide_border=true&title_color=0EA5E9&text_color=E2E8F0&icon_color=14B8A6" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanParias29&theme=transparent&hide_border=true&ring=0EA5E9&fire=14B8A6" />
 </p>
 
 ---
 
-# 🎯 Core Expertise
+# 📊 GitHub Analytics
 
-* Time Series Forecasting
-* Demand Planning
-* Statistical Inference
-* Inventory Analytics
-* Predictive Modeling
-* Machine Learning
-* Data-Driven Decision Making
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JuanParias29&show_icons=true&theme=transparent&hide_border=true&title_color=0EA5E9&text_color=E2E8F0&icon_color=14B8A6" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanParias29&theme=transparent&hide_border=true&ring=0EA5E9&fire=14B8A6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanParias29&layout=compact&theme=transparent&hide_border=true" />
+</p>
