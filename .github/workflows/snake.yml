@@ -13,14 +13,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate blue snake
+      - name: Generate white snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: JuanParias29
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-blue.svg?color_snake=0EA5E9&color_dots=#161B22,#0EA5E9,#38BDF8,#60A5FA,#93C5FD
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=ffffff
+            dist/github-contribution-grid-snake-white.svg?color_snake=ffffff&color_dots=#ebedf0,#c6e6ff,#7fbfff,#3399ff,#0066cc
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
