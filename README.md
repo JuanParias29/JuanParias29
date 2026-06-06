@@ -72,8 +72,7 @@ Data Scientist specializing in time series analysis and forecasting, transformin
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=JuanParias29&theme=transparent&hide_border=true&title_color=0EA5E9&text_color=E2E8F0&icon_color=14B8A6" 
-    alt="GitHub Stats" 
+    src="https://github-readme-stats.vercel.app/api?username=JuanParias29&theme=transparent&hide_border=true&title_color=0EA5E9&text_color=E2E8F0&icon_color=14B8A6"  
   />
 </p>
 
@@ -84,27 +83,27 @@ Data Scientist specializing in time series analysis and forecasting, transformin
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanParias29&layout=compact&theme=transparent&hide_border=true&title_color=0EA5E9&text_color=E2E8F0" 
-    alt="Top Languages" 
-  />
-</p>
-
 ---
 
-# 🟩 GitHub Contributions
+# 🟦 GitHub Contributions
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=JuanParias29&bg_color=00000000&color=0EA5E9&line=14B8A6&point=E2E8F0&area=true&hide_border=true" 
-    alt="GitHub Activity Graph" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanParias29&theme=github_dark" 
+    alt="GitHub Weekly Contribution Summary" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/JuanParias29/JuanParias29/output/github-contribution-grid-snake.svg" 
-    alt="GitHub Contribution Snake" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JuanParias29&theme=github_dark&utcOffset=-5" 
+    alt="GitHub Productive Time" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/JuanParias29/JuanParias29/output/github-contribution-grid-snake-blue.svg" 
+    alt="GitHub Contribution Snake Blue" 
   />
 </p>
