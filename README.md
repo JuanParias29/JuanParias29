@@ -100,8 +100,8 @@ Data Scientist specializing in time series analysis and forecasting, transformin
     />
     <img 
       width="95%" 
-      src="https://raw.githubusercontent.com/JuanParias29/JuanParias29/output/github-contribution-grid-snake-blue.svg" 
-      alt="GitHub Contribution Snake Blue" 
+      src="https://raw.githubusercontent.com/JuanParias29/JuanParias29/output/github-contribution-grid-snake-white.svg" 
+      alt="GitHub Contribution Snake White" 
     />
   </picture>
 </p>
