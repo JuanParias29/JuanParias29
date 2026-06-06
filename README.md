@@ -2,6 +2,8 @@
   <img src="https://media.licdn.com/dms/image/v2/D4E16AQFtBIKmWnAxCA/profile-displaybackgroundimage-shrink_350_1400/B4EZ6dsUQ.JAAU-/0/1780762101173?e=1782345600&v=beta&t=gEPoXFBwXiobpqMZmH2JfMHiushw8Xx8wcMUkDYM4qs" alt="Juan Pablo Arias Banner" width="100%" />
 </p>
 
+<h1 align="center">Hi, I'm Juan Pablo👋</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=750&lines=Data+Scientist;Time+Series+Forecasting;Machine+Learning;Artificial+Intelligence;Natural+Language+Processing" />
 </p>
