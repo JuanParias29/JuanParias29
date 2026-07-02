@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQFtBIKmWnAxCA/profile-displaybackgroundimage-shrink_350_1400/B4EZ6dsUQ.JAAU-/0/1780762101173?e=1782345600&v=beta&t=gEPoXFBwXiobpqMZmH2JfMHiushw8Xx8wcMUkDYM4qs" alt="Juan Pablo Arias Banner" width="100%" />
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQFtBIKmWnAxCA/profile-displaybackgroundimage-shrink_200_800/B4EZ6dsUQ.JAAQ-/0/1780762101173?e=1784764800&v=beta&t=XVMLtYeNtLr0U6eDp52CcPAkzB_1eZqwUMuQUAcJ5pg" alt="Juan Pablo Arias Banner" width="100%" />
 </p>
+
 
 ---
 
